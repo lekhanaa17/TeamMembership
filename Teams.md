@@ -41,3 +41,14 @@ Team: The Remainders
   	Timothy McCall | TiMcCall
 	John Foster | Fosterj14
 	Ethan Geiger | EthanGeiger
+	
+Team: Developers
+  Sprint Duration: 5 days
+  	Lekhanaa Boyina | lekhanaa17
+	Vinay Chakka | vinaychakka
+	Surya Teja Sangepu | suryasangepu
+	Revanth Krishna Cherukuri | cherukuri.31@wright.edu
+	Jahnavi Bandi | janu0613
+	Fayazuddin Mohammed | fayu555
+	Prathyusha Narra | prathyu2719
+	Anudeep | anudeepmv
