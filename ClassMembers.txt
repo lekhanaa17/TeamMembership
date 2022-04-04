@@ -1,11 +1,11 @@
 Akkineni, Anuhya
 Bandi, Jahnavi
 Behr, Joseph: github.com/JosephBehr
-Boyina, Lekhanaa Jaya Sree
+Boyina, Lekhanaa Jaya Sree: github.com/lekhanaa17
 Brennaman, Logan R: github.com/lbrennaman
 Buck, Erik M.: github.com/erikbuck
 Carroll, Torey: https://github.com/ToreyC31
-Chakka, Vinay
+Chakka, Vinay: github.com/vinaychakka
 Cherukuri, Revanth Krishna
 Conley, Benjamin: github.com/FrostyWumpus
 Erra, Ram Dixit
@@ -41,7 +41,7 @@ Poling, Jacob D.: github.com/XarosElite
 Ruby, Shawn M.: github.com/agreeablyblue
 Rude, Austin W.: github.com/austin-wr
 Sabbella, Akhil Sai Satyanarayana Reddy
-Sangepu, Surya Teja
+Sangepu, Surya Teja: github.com/suryasangepu
 Satla, Rahul: github.com/rahul-satla
 Satla, Ravali: github.com/RavaliSatla
 Singh, Harroop: github.com/harroopsingh1993
