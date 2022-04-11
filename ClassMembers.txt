@@ -5,8 +5,8 @@ Boyina, Lekhanaa Jaya Sree
 Brennaman, Logan R: github.com/lbrennaman
 Buck, Erik M.: github.com/erikbuck
 Carroll, Torey: https://github.com/ToreyC31
-Chakka, Vinay
-Cherukuri, Revanth Krishna
+Chakka, Vinay: https://github.com/vinaychakka
+Cherukuri, Revanth Krishna: https://github.com/RevanthCherukuri
 Conley, Benjamin: github.com/FrostyWumpus
 Erra, Ram Dixit : github.com/RamDixitErra 
 Foster, John: github.com/fosterj14
@@ -41,7 +41,7 @@ Poling, Jacob D.: github.com/XarosElite
 Ruby, Shawn M.: github.com/agreeablyblue
 Rude, Austin W.: github.com/austin-wr
 Sabbella, Akhil Sai Satyanarayana Reddy
-Sangepu, Surya Teja
+Sangepu, Surya Teja: https://github.com/suryasangepu
 Satla, Rahul: github.com/rahul-satla
 Satla, Ravali: github.com/RavaliSatla
 Singh, Harroop: github.com/harroopsingh1993
